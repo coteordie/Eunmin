@@ -177,5 +177,32 @@
         JAVA
       </td>
     </tr>
+     <tr>
+      <td align="center">
+        7
+      </td>
+      <td align="center">
+        백준
+      </td>
+      <td align="center">
+        <a href="https://www.acmicpc.net/problem/1436">
+            1436
+        </a>
+      </td>
+      <td align="center">
+        영화감독 숌
+      </td>
+      <td align="center">
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190453907-cf6d0fe5-1373-4418-a057-c49235452bfb.png"></sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/coteordie/Eunmin/blob/main/Study1-BruteForce/Week01/Day04/BOJ_1436.java">
+            Day04
+        </a>
+      </td>
+      <td align="center">
+        JAVA
+      </td>
+    </tr>
   </table>
 </div>
