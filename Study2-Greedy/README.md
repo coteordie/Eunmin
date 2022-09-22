@@ -60,7 +60,61 @@
       </td>
       <td align="center">
         <a href="https://github.com/coteordie/Eunmin/blob/main/Study2-Greedy/Week01/Day01/BOJ_5585.java">
-            Day01
+            Day02
+        </a>
+      </td>
+      <td align="center">
+        JAVA
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        3
+      </td>
+      <td align="center">
+        백준
+      </td>
+      <td align="center">
+        <a href="https://www.acmicpc.net/problem/10162">
+            10162
+        </a>
+      </td>
+      <td align="center">
+        전자레인지
+      </td>
+      <td align="center">
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190453889-3852a30e-37f9-4a73-8622-47247332271d.png"></sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/coteordie/Eunmin/blob/main/Study2-Greedy/Week01/Day02/BOJ_10162.java">
+            Day02
+        </a>
+      </td>
+      <td align="center">
+        JAVA
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        4
+      </td>
+      <td align="center">
+        백준
+      </td>
+      <td align="center">
+        <a href="https://www.acmicpc.net/problem/2217">
+            2217
+        </a>
+      </td>
+      <td align="center">
+        로프
+      </td>
+      <td align="center">
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190453924-710de7f3-0578-4a3e-8f98-dd014210eb3e.png"></sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/coteordie/Eunmin/blob/main/Study2-Greedy/Week01/Day03/BOJ_2217.java">
+            Day03
         </a>
       </td>
       <td align="center">
