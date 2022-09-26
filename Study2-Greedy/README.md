@@ -148,5 +148,89 @@
         JAVA
       </td>
     </tr>
+    
+    <tr>
+      <td align="center">
+        6
+      </td>
+      <td align="center">
+        백준
+      </td>
+      <td align="center">
+        <a href="https://www.acmicpc.net/problem/14916">
+            14916
+        </a>
+      </td>
+      <td align="center">
+        거스름돈
+      </td>
+      <td align="center">
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190453907-cf6d0fe5-1373-4418-a057-c49235452bfb.png"></sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/coteordie/Eunmin/blob/main/Study2-Greedy/Week01/Day04/BOJ_14916.java">
+            Day04
+        </a>
+      </td>
+      <td align="center">
+        JAVA
+      </td>
+    </tr>
+    
+    <tr>
+      <td align="center">
+        7
+      </td>
+      <td align="center">
+        백준
+      </td>
+      <td align="center">
+        <a href="https://www.acmicpc.net/problem/2839">
+            2839
+        </a>
+      </td>
+      <td align="center">
+        설탕배달
+      </td>
+      <td align="center">
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190453924-710de7f3-0578-4a3e-8f98-dd014210eb3e.png"></sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/coteordie/Eunmin/blob/main/Study2-Greedy/Week01/Day04/BOJ_2839.java">
+            Day04
+        </a>
+      </td>
+      <td align="center">
+        JAVA
+      </td>
+    </tr>
+    
+    <tr>
+      <td align="center">
+        8
+      </td>
+      <td align="center">
+        백준
+      </td>
+      <td align="center">
+        <a href="https://www.acmicpc.net/problem/1789">
+            1789
+        </a>
+      </td>
+      <td align="center">
+        수들의 합
+      </td>
+      <td align="center">
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190453924-710de7f3-0578-4a3e-8f98-dd014210eb3e.png"></sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/coteordie/Eunmin/blob/main/Study2-Greedy/Week01/Day04/BOJ_1789.java">
+            Day04
+        </a>
+      </td>
+      <td align="center">
+        JAVA
+      </td>
+    </tr>
   </table>
 </div>
