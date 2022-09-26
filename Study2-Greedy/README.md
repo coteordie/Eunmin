@@ -121,5 +121,32 @@
         JAVA
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        5
+      </td>
+      <td align="center">
+        백준
+      </td>
+      <td align="center">
+        <a href="https://www.acmicpc.net/problem/2864">
+            2864
+        </a>
+      </td>
+      <td align="center">
+        5와 6의 차이
+      </td>
+      <td align="center">
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190453896-b9f4c65a-20c7-4a58-b7f1-62d9c01fae84.png"></sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/coteordie/Eunmin/blob/main/Study2-Greedy/Week01/Day04/BOJ_2864.java">
+            Day04
+        </a>
+      </td>
+      <td align="center">
+        JAVA
+      </td>
+    </tr>
   </table>
 </div>
