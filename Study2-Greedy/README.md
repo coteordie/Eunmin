@@ -148,7 +148,6 @@
         JAVA
       </td>
     </tr>
-    
     <tr>
       <td align="center">
         6
@@ -175,8 +174,7 @@
       <td align="center">
         JAVA
       </td>
-    </tr>
-    
+    </tr>    
     <tr>
       <td align="center">
         7
@@ -203,8 +201,7 @@
       <td align="center">
         JAVA
       </td>
-    </tr>
-    
+    </tr>   
     <tr>
       <td align="center">
         8
