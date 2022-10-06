@@ -1,6 +1,6 @@
-# Week3
-### Greedy Algorithm
-### 2022.09.28 ~ 2022.10.05
+# Week4
+### Solved Class 1
+### 2022.10.05 ~ 2022.10.12
 ---
 <div align="center">
   <table>
