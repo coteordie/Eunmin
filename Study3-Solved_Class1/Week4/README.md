@@ -175,5 +175,167 @@
         JAVA
       </td>
     </tr>   
+    <tr>
+      <td align="center">
+        7
+      </td>
+      <td align="center">
+        백준
+      </td>
+      <td align="center">
+        <a href="https://www.acmicpc.net/problem/2577">
+            2577
+        </a>
+      </td>
+      <td align="center">
+        숫자의 개수
+      </td>
+      <td align="center">
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190453896-b9f4c65a-20c7-4a58-b7f1-62d9c01fae84.png"></sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/coteordie/Eunmin/blob/main/Study3-Solved_Class1/Week4/Day17/BOJ_2577.java">
+            Day17
+        </a>
+      </td>
+      <td align="center">
+        JAVA
+      </td>
+    </tr>   
+    <tr>
+      <td align="center">
+        8
+      </td>
+      <td align="center">
+        백준
+      </td>
+      <td align="center">
+        <a href="https://www.acmicpc.net/problem/2675">
+            2675
+        </a>
+      </td>
+      <td align="center">
+        문자열 반복
+      </td>
+      <td align="center">
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190453896-b9f4c65a-20c7-4a58-b7f1-62d9c01fae84.png"></sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/coteordie/Eunmin/blob/main/Study3-Solved_Class1/Week4/Day17/BOJ_2675.java">
+            Day17
+        </a>
+      </td>
+      <td align="center">
+        JAVA
+      </td>
+    </tr> 
+    <tr>
+      <td align="center">
+        9
+      </td>
+      <td align="center">
+        백준
+      </td>
+      <td align="center">
+        <a href="https://www.acmicpc.net/problem/2908">
+            2908
+        </a>
+      </td>
+      <td align="center">
+        상수
+      </td>
+      <td align="center">
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190453896-b9f4c65a-20c7-4a58-b7f1-62d9c01fae84.png"></sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/coteordie/Eunmin/blob/main/Study3-Solved_Class1/Week4/Day17/BOJ_2908.java">
+            Day17
+        </a>
+      </td>
+      <td align="center">
+        JAVA
+      </td>
+    </tr>    
+    <tr>
+      <td align="center">
+        10
+      </td>
+      <td align="center">
+        백준
+      </td>
+      <td align="center">
+        <a href="https://www.acmicpc.net/problem/2920">
+            2920
+        </a>
+      </td>
+      <td align="center">
+        음계
+      </td>
+      <td align="center">
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190453896-b9f4c65a-20c7-4a58-b7f1-62d9c01fae84.png"></sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/coteordie/Eunmin/blob/main/Study3-Solved_Class1/Week4/Day18/BOJ_2920.java">
+            Day18
+        </a>
+      </td>
+      <td align="center">
+        JAVA
+      </td>
+    </tr>    
+    <tr>
+      <td align="center">
+        11
+      </td>
+      <td align="center">
+        백준
+      </td>
+      <td align="center">
+        <a href="https://www.acmicpc.net/problem/3052">
+            3052
+        </a>
+      </td>
+      <td align="center">
+        나머지
+      </td>
+      <td align="center">
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190453896-b9f4c65a-20c7-4a58-b7f1-62d9c01fae84.png"></sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/coteordie/Eunmin/blob/main/Study3-Solved_Class1/Week4/Day18/BOJ_3052.java">
+            Day18
+        </a>
+      </td>
+      <td align="center">
+        JAVA
+      </td>
+    </tr>   
+    <tr>
+      <td align="center">
+        12
+      </td>
+      <td align="center">
+        백준
+      </td>
+      <td align="center">
+        <a href="https://www.acmicpc.net/problem/8958">
+            8958
+        </a>
+      </td>
+      <td align="center">
+        OX퀴즈
+      </td>
+      <td align="center">
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190453896-b9f4c65a-20c7-4a58-b7f1-62d9c01fae84.png"></sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/coteordie/Eunmin/blob/main/Study3-Solved_Class1/Week4/Day18/BOJ_8958.java">
+            Day18
+        </a>
+      </td>
+      <td align="center">
+        JAVA
+      </td>
+    </tr>    
   </table>
 </div>
