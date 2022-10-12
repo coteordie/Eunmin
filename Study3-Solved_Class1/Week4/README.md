@@ -337,5 +337,59 @@
         JAVA
       </td>
     </tr>    
+    <tr>
+      <td align="center">
+        13
+      </td>
+      <td align="center">
+        백준
+      </td>
+      <td align="center">
+        <a href="https://www.acmicpc.net/problem/1157">
+            1157
+        </a>
+      </td>
+      <td align="center">
+        단어 공부
+      </td>
+      <td align="center">
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190453899-83f0b3c7-268c-4609-95f5-bef98c69f0b4.png"></sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/coteordie/Eunmin/blob/main/Study3-Solved_Class1/Week4/Day19/BOJ_1157.java">
+            Day19
+        </a>
+      </td>
+      <td align="center">
+        JAVA
+      </td>
+    </tr>    
+    <tr>
+      <td align="center">
+        14
+      </td>
+      <td align="center">
+        백준
+      </td>
+      <td align="center">
+        <a href="https://www.acmicpc.net/problem/1546">
+            1546
+        </a>
+      </td>
+      <td align="center">
+        평균
+      </td>
+      <td align="center">
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190453899-83f0b3c7-268c-4609-95f5-bef98c69f0b4.png"></sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/coteordie/Eunmin/blob/main/Study3-Solved_Class1/Week4/Day19/BOJ_1546.java">
+            Day19
+        </a>
+      </td>
+      <td align="center">
+        JAVA
+      </td>
+    </tr>    
   </table>
 </div>
