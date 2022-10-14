@@ -121,6 +121,113 @@
         JAVA
       </td>
     </tr>
-
+    <tr>
+      <td align="center">
+        5
+      </td>
+      <td align="center">
+        백준
+      </td>
+      <td align="center">
+        <a href="https://www.acmicpc.net/problem/2475">
+            2475
+        </a>
+      </td>
+      <td align="center">
+        검증수
+      </td>
+      <td align="center">
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190453860-bdfec0ad-dd92-4fb1-a56c-5f394831a0c5.png"></sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/coteordie/Eunmin/blob/main/Study3-Solved_Class1/Week5/Day21/BOJ_2475.java">
+            Day21
+        </a>
+      </td>
+      <td align="center">
+        JAVA
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        6
+      </td>
+      <td align="center">
+        백준
+      </td>
+      <td align="center">
+        <a href="https://www.acmicpc.net/problem/2557">
+            2557
+        </a>
+      </td>
+      <td align="center">
+        Hello World
+      </td>
+      <td align="center">
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190453860-bdfec0ad-dd92-4fb1-a56c-5f394831a0c5.png"></sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/coteordie/Eunmin/blob/main/Study3-Solved_Class1/Week5/Day21/BOJ_2557.java">
+            Day21
+        </a>
+      </td>
+      <td align="center">
+        JAVA
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        7
+      </td>
+      <td align="center">
+        백준
+      </td>
+      <td align="center">
+        <a href="https://www.acmicpc.net/problem/2739">
+            2739
+        </a>
+      </td>
+      <td align="center">
+        구구단
+      </td>
+      <td align="center">
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190453860-bdfec0ad-dd92-4fb1-a56c-5f394831a0c5.png"></sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/coteordie/Eunmin/blob/main/Study3-Solved_Class1/Week5/Day21/BOJ_2739.java">
+            Day21
+        </a>
+      </td>
+      <td align="center">
+        JAVA
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        8
+      </td>
+      <td align="center">
+        백준
+      </td>
+      <td align="center">
+        <a href="https://www.acmicpc.net/problem/2741">
+            2741
+        </a>
+      </td>
+      <td align="center">
+        N찍기
+      </td>
+      <td align="center">
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190453860-bdfec0ad-dd92-4fb1-a56c-5f394831a0c5.png"></sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/coteordie/Eunmin/blob/main/Study3-Solved_Class1/Week5/Day21/BOJ_2741.java">
+            Day21
+        </a>
+      </td>
+      <td align="center">
+        JAVA
+      </td>
+    </tr>
   </table>
 </div>
