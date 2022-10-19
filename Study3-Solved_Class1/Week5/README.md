@@ -369,7 +369,7 @@
         14
       </td>
       <td align="center">
-        사칙연산
+        백준
       </td>
       <td align="center">
         <a href="https://www.acmicpc.net/problem/10869">
