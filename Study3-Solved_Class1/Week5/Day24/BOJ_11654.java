@@ -4,16 +4,15 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 /**
- * 구구단
+ * 아스키 코드
  */
-public class BOJ_2739 {
+public class BOJ_11654 {
 
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		int n = Integer.parseInt(br.readLine());
-		for(int i = 1; i < 10; i++) 
-			System.out.println(n + " * " + i + " = " + n * i);
-
+		String s = br.readLine();
+		int c = s.charAt(0);
+		System.out.println(c);
 	}
 
 }
